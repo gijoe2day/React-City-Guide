@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-City-Guide/static/css/main.799b5497.chunk.css",
+    "main.js": "/React-City-Guide/static/js/main.028cf8cb.chunk.js",
+    "main.js.map": "/React-City-Guide/static/js/main.028cf8cb.chunk.js.map",
+    "runtime-main.js": "/React-City-Guide/static/js/runtime-main.8163dfde.js",
+    "runtime-main.js.map": "/React-City-Guide/static/js/runtime-main.8163dfde.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React-City-Guide/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6655e57e.chunk.js": "/React-City-Guide/static/js/2.6655e57e.chunk.js",
+    "static/js/2.6655e57e.chunk.js.map": "/React-City-Guide/static/js/2.6655e57e.chunk.js.map",
+    "index.html": "/React-City-Guide/index.html",
+    "precache-manifest.a832eaf3b973253ee81b99a7686fd2b9.js": "/React-City-Guide/precache-manifest.a832eaf3b973253ee81b99a7686fd2b9.js",
+    "service-worker.js": "/React-City-Guide/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React-City-Guide/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.799b5497.chunk.css.map": "/React-City-Guide/static/css/main.799b5497.chunk.css.map",
+    "static/js/2.6655e57e.chunk.js.LICENSE.txt": "/React-City-Guide/static/js/2.6655e57e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-City-Guide/static/media/logo.f391e657.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8163dfde.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6655e57e.chunk.js",
+    "static/css/main.799b5497.chunk.css",
+    "static/js/main.028cf8cb.chunk.js"
+  ]
+}
